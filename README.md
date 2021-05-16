@@ -12,5 +12,5 @@ En concret, la captura, el tractament i l'anàlisi estadística de les dades s'h
 En aquest GitLab es poden trobar els següents fitxers:
 *  **codi/scraper-ev-database.py** conté la implementació en Python del rastrejador que s'endinsa en la base de dades online ev-database i que acaba generant el conjunt de dades resultant
 *  **codi/csv/ElectricVehicleCatalog.csv** conté en format de CSV les dades capturades durant el procés de scraping
-*  **codi/csv/images** directori que conté en format JPG les imatges dels vehicles descarregats 
+*  **codi/csv/images** directori que conté en format JPG les imatges dels vehicles descarrega
 *  **AndolzSantacana_Patricia_Practica1_TCVD.pdf** conté l'informe detallat de la pràctica
