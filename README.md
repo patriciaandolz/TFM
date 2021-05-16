@@ -9,8 +9,11 @@ En concret, la captura, el tractament i l'anàlisi estadística de les dades s'h
 * **Patricia Andolz Santacana**.
 
 # Fitxers resultants
-En aquest GitLab es poden trobar els següents fitxers:
-*  **codi/scraper-ev-database.py** conté la implementació en Python del rastrejador que s'endinsa en la base de dades online ev-database i que acaba generant el conjunt de dades resultant
-*  **codi/csv/ElectricVehicleCatalog.csv** conté en format de CSV les dades capturades durant el procés de scraping
-*  **codi/csv/images** directori que conté en format JPG les imatges dels vehicles descarrega
-*  **AndolzSantacana_Patricia_Practica1_TCVD.pdf** conté l'informe detallat de la pràctica
+En aquest GitHub es poden trobar els següents fitxers:
+*  **codi/codi_R_TFM_analisi_ciclable_BCN.Rmd** conté la implementació en R que carrega les dades de l'estudi i genera les capes a ArcGIS Pro utilitzant el conector R-ArcGIS Bridge, així com els elements per enriquir el visor d'AGOL
+*  **codi/Dades** directori que conté els fitxers originals. En concret:
+*  *  **codi/Dades/accidents** directori que conté els conjunts CSV per l'estudi d'accidentalitat
+*  *  **codi/Dades/infraestructura_ciclable** directori que conté els conjunts ZIP per l'estudi de la infraestructura ciclable
+*  *  **codi/Dades/qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
+*  *  **codi/Dades/BCN_UNITATS_ADM** directori que conté els ZIP amb les dades administratives de Barcelona (municipi, districtes i barris)
+*  *  **codi/Dades/graf_viari** directori que conté els ZIP amb l'entramat de la xarxa vial
