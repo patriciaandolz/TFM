@@ -12,7 +12,7 @@ En concret, la captura, el tractament i l'anàlisi estadística de les dades s'h
 En aquest GitHub es poden trobar els següents fitxers:
 *  **codi/codi_R_TFM_analisi_ciclable_BCN.Rmd** conté la implementació en R que carrega les dades de l'estudi i genera les capes a ArcGIS Pro utilitzant el conector R-ArcGIS Bridge, així com els elements per enriquir el visor d'AGOL
 *  **codi/Dades** directori que conté els fitxers originals. En concret:
-  *  **codi/Dades/accidents** directori que conté els conjunts CSV per l'estudi d'accidentalitat
+     *  **codi/Dades/accidents** directori que conté els conjunts CSV per l'estudi d'accidentalitat
   *  **codi/Dades/infraestructura_ciclable** directori que conté els conjunts ZIP per l'estudi de la infraestructura ciclable
   *  **codi/Dades/qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
   *  **codi/Dades/BCN_UNITATS_ADM** directori que conté els ZIP amb les dades administratives de Barcelona (municipi, districtes i barris)
