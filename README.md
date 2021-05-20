@@ -13,6 +13,7 @@ En aquest GitHub es poden trobar els següents fitxers:
 *  **index.html** conté la [maquetació del codi d'R](https://patriciaandolz.github.io/tfm/)
 *  **codi/codi_R_TFM_analisi_ciclable_BCN.Rmd** conté la implementació en R que carrega les dades de l'estudi i genera les capes a ArcGIS Pro utilitzant el conector R-ArcGIS Bridge, així com els elements per enriquir el visor d'AGOL
 *  **codi/Dades** directori que conté els fitxers originals. En concret:
+     *  **codi/Dades/aforaments** directori que conté els conjunts CSV per l'estudi d'ús de la bicicleta
      *  **codi/Dades/accidents** directori que conté els conjunts CSV per l'estudi d'accidentalitat
      *  **codi/Dades/infraestructura_ciclable** directori que conté els conjunts ZIP per l'estudi de la infraestructura ciclable
      *  **codi/Dades/qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
