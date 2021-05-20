@@ -22,4 +22,12 @@ En aquest GitHub es poden trobar els següents fitxers:
      *  **codi/Dades/graf_viari** directori que conté els ZIP amb l'entramat de la xarxa vial     
      *  **codi/Dades/qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
 
+*  **codi/Exports** directori que conté les capes exportades d'ArcGIS Pro. En concret:
+     *  **codi/Exports/infraestructura_ciclable** directori que conté els conjunts ZIP amb els shapefiles de les capes de la infraestructura ciclable
+     *  **codi/Exports/aforaments** directori que conté els conjunts CSV per l'estudi d'ús de la bicicleta
+     *  **codi/Exports/dades_enriquides** 
+     *  **codi/Exports/accidents** 
+     *  **codi/Exports/qualitat_aire**   
+
+
 *  **codi/AGOL** directori que conté els recursos generats a R per enriquir el visor d'AGOL
