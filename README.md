@@ -6,7 +6,9 @@ Aquest projecte es correspon al desenvolupament del producte final del TFM _**An
 En concret, la captura, el tractament i l'anàlisi estadística de les dades s'ha realitzat en ***[R](https://patriciaandolz.github.io/tfm/)***, mentre que l'anàlisi geoespacial s'ha dut a terme a ***ArcGIS Pro***. Finalment, s'ha publicat un [visor interactiu](https://patriciaandolz.maps.arcgis.com/apps/MapSeries/index.html?appid=d3808fb4190b40939b9d3bfea61f7f7b) amb les quatre temàtiques d'estudi i un espai per explorar les capes superposades a ***ArcGIS Online***, construit amb ***Web AppBuilder*** i ***Story Map Series***.
 
 # Autors
-* **Patricia Andolz Santacana**.
+* Autora: **Patricia Andolz Santacana**
+* Directora del TFM: **Anna Muñoz Bollas**
+* Professor responsale de l'assignatura: **Albert Solé Ribalta**
 
 # Estructura del Git
 En aquest GitHub es poden trobar els següents fitxers:
@@ -24,10 +26,10 @@ En aquest GitHub es poden trobar els següents fitxers:
 
 *  **codi/Exports** directori que conté les capes exportades d'ArcGIS Pro. En concret:
      *  **codi/Exports/infraestructura_ciclable** directori que conté els conjunts ZIP amb els shapefiles de les capes de la infraestructura ciclable
-     *  **codi/Exports/aforaments** directori que conté els conjunts CSV per l'estudi d'ús de la bicicleta
-     *  **codi/Exports/dades_enriquides** 
-     *  **codi/Exports/accidents** 
-     *  **codi/Exports/qualitat_aire**   
+     *  **codi/Exports/aforaments** directori que conté els conjunts ZIP amb els shapefiles de les capes d'ús de la bicicleta
+     *  **codi/Exports/dades_enriquides** directori que conté els shapefiles d'aforament però més complerts a partir dels quals es generaran les estadístiques i GIF per enriquir el visor d'AGOL
+     *  **codi/Exports/accidents** directori que conté els conjunts ZIP amb els shapefiles de l'accidentalitat
+     *  **codi/Exports/qualitat_aire** directori que conté els conjunts ZIP amb els shapefiles de la qualitat de l'aire
 
 
 *  **codi/AGOL** directori que conté els recursos generats a R per enriquir el visor d'AGOL
