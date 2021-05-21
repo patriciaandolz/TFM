@@ -8,7 +8,7 @@ En concret, la captura, el tractament i l'anàlisi estadística de les dades s'h
 # Autors
 * Autora: **Patricia Andolz Santacana**
 * Directora del TFM: **Anna Muñoz Bollas**
-* Professor responsale de l'assignatura: **Albert Solé Ribalta**
+* Professor responsable de l'assignatura: **Albert Solé Ribalta**
 
 # Estructura del Git
 En aquest GitHub es poden trobar els següents fitxers:
