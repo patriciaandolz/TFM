@@ -16,20 +16,20 @@ En aquest GitHub es poden trobar els següents fitxers:
 
 *  **codi/codi_R_TFM_analisi_ciclable_BCN.Rmd** conté la implementació en R que carrega les dades de l'estudi i genera les capes a ArcGIS Pro utilitzant el conector R-ArcGIS Bridge, així com els elements per enriquir el visor d'AGOL
 
-*  **codi/Dades** directori que conté els fitxers originals. En concret:
-     *  **codi/Dades/infraestructura_ciclable** directori que conté els conjunts ZIP per l'estudi de la infraestructura ciclable
-     *  **codi/Dades/aforaments** directori que conté els conjunts CSV per l'estudi d'ús de la bicicleta
+*  **codi/Dades** directori que conté els fitxers originals descarregats d'OpenData Barcelona i Catalunya. En concret:
+     *  **codi/Dades/T1.infraestructura_ciclable** directori que conté els conjunts ZIP per l'estudi de la infraestructura ciclable
+     *  **codi/Dades/T2.aforaments** directori que conté els conjunts CSV per l'estudi d'ús de la bicicleta
+     *  **codi/Dades/T3.accidentalitat** directori que conté els conjunts CSV per l'estudi d'accidentalitat
+     *  **codi/Dades/T4.qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
      *  **codi/Dades/BCN_UNITATS_ADM** directori que conté els ZIP amb les dades administratives de Barcelona (municipi, districtes i barris)
-     *  **codi/Dades/accidents** directori que conté els conjunts CSV per l'estudi d'accidentalitat
      *  **codi/Dades/graf_viari** directori que conté els ZIP amb l'entramat de la xarxa vial     
-     *  **codi/Dades/qualitat_aire** directori que conté el conjunt CSV per l'estudi de la qualitat de l'aire
+
 
 *  **codi/Exports** directori que conté les capes exportades d'ArcGIS Pro. En concret:
-     *  **codi/Exports/infraestructura_ciclable** directori que conté els conjunts ZIP amb els shapefiles de les capes de la infraestructura ciclable
-     *  **codi/Exports/aforaments** directori que conté els conjunts ZIP amb els shapefiles de les capes d'ús de la bicicleta
-     *  **codi/Exports/dades_enriquides** directori que conté els shapefiles d'aforament però més complerts a partir dels quals es generaran les estadístiques i GIF per enriquir el visor d'AGOL
-     *  **codi/Exports/accidents** directori que conté els conjunts ZIP amb els shapefiles de l'accidentalitat
-     *  **codi/Exports/qualitat_aire** directori que conté els conjunts ZIP amb els shapefiles de la qualitat de l'aire
+     *  **codi/Exports/T1.infraestructura_ciclable** directori que conté els _shapefiles_ de les capes de la infraestructura ciclable
+     *  **codi/Exports/T2.aforaments** directori que conté els _shapefiles_ de les capes d'ús de la bicicleta
+     *  **codi/Exports/T3.accidentalitat** directori que conté els _shapefiles_ de les capes d'accidentalitat
+     *  **codi/Exports/T4.qualitat_aire** directori que conté els _shapefiles_ de les capes de la qualitat de l'aire
 
 
-*  **codi/AGOL** directori que conté els recursos generats a R per enriquir el visor d'AGOL
+*  **codi/AGOL** directori que conté els recursos generats a R per enriquir el visor d'AGOL.
