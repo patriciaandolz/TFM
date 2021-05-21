@@ -6,7 +6,7 @@ Aquest projecte es correspon al desenvolupament del producte final del TFM _**An
 En concret, la captura, el tractament i l'anàlisi estadística de les dades s'ha realitzat en ***[R](https://patriciaandolz.github.io/tfm/)***, mentre que l'anàlisi geoespacial s'ha dut a terme a ***ArcGIS Pro***. Finalment, s'ha publicat un [visor interactiu](https://patriciaandolz.maps.arcgis.com/apps/MapSeries/index.html?appid=d3808fb4190b40939b9d3bfea61f7f7b) amb les quatre temàtiques d'estudi i un espai per explorar les capes superposades a ***ArcGIS Online***, construit amb ***Web AppBuilder*** i ***Story Map Series***.
 
 # Autors
-* Autora: **Patricia Andolz Santacana**
+* Autora del TFM: **Patricia Andolz Santacana**
 * Directora del TFM: **Anna Muñoz Bollas**
 * Professor responsable de l'assignatura: **Albert Solé Ribalta**
 
